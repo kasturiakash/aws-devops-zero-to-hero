@@ -6,4 +6,3 @@ docker pull kasturiakash/simple-python-flask-app
 
 # Run the Docker image as a container
 docker run -d -p 5000:5000 kasturiakash/simple-python-flask-app
-
